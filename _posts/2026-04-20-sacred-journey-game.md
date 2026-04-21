@@ -14,7 +14,7 @@ I used Google Gemini to create an online trivia game called "Sacred Journey: Tri
 
 ### Link
 
--[Sacred Journey: Trivia Quest](https://mdm-droid.github.io/Religious-Figures-Trivia-Game/)
+* [Sacred Journey: Trivia Quest](https://mdm-droid.github.io/Religious-Figures-Trivia-Game/)
 
 ### Overview
 
@@ -24,9 +24,9 @@ Drawing directly from a comprehensive study guide, the game transforms academic 
 
 ### Key Features
 
-*Eight Unique Realms: The game is organized into chapters based on the religious figures. As players progress, the "Realm" badge updates to show which part of the journey they are currently navigating.
+* Eight Unique Realms: The game is organized into chapters based on the religious figures. As players progress, the "Realm" badge updates to show which part of the journey they are currently navigating.
 
-*Comprehensive Question Pool: The game features 40 multiple-choice questions, ensuring that every detail from the source document—from birthplaces to central teachings—is covered.
+* Comprehensive Question Pool: The game features 40 multiple-choice questions, ensuring that every detail from the source document—from birthplaces to central teachings—is covered.
 
 *"Divine Insight" Hint System: Players are provided with three hints per game. Using a hint automatically eliminates two incorrect options, providing a strategic 50/50 advantage for challenging questions.
 
