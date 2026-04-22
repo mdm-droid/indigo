@@ -10,14 +10,16 @@ title: Projects
                     <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                         <h3 class="title">{{ post.title }}</h3>
 					</a>
-                        {% if post.description %}
-                        <br>{{ post.description }}
-                        <!-- <h4 class="post-subtitle">{{ post.description }}</h4> -->
-                        {% else %}
-                        <br>{{ post.excerpt | strip_html | truncatewords: 15 }}
-                        <!-- <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4> -->
-                        {% endif %}
-			            <br><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    {% if post.description %}
+					<p class="post-subtitle">{{ post.description }}</p>
+                    <!-- <br>{{ post.description }} -->
+                    <!-- <h4 class="post-subtitle">{{ post.description }}</h4> -->
+                    {% else %}
+                    <p class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+					<!-- <br>{{ post.excerpt | strip_html | truncatewords: 15 }} -->
+                    <!-- <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4> -->
+                    {% endif %}
+			        <br><br><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                 </div>
             {% endif %}
         {% endif %}
