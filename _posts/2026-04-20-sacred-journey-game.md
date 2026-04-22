@@ -4,6 +4,11 @@ title: "Religious Figures Trivia Game"
 date: 2026-04-21
 category: projects
 projects: true
+tag: game
+image: assets/images/sacred-journey.png
+headerImage: true
+description: "My current resume is available to download in the main navigation."
+author: mattsherrill
 ---
 
 I used Google Gemini to create an online trivia game called "Sacred Journey: Trivia Quest" for the Baha'i Children's Class that I teach.
