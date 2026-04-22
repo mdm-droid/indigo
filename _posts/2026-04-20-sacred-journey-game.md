@@ -11,7 +11,7 @@ description: "Online trivia game about religious figures called Sacred Journey: 
 author: mattsherrill
 ---
 
-I used Google Gemini to create an online trivia game called "Sacred Journey: Trivia Quest" for the Baha'i Children's Class that I teach.
+I used AI to create an online trivia game called "Sacred Journey: Trivia Quest" for the Baha'i Children's Class that I teach.
 
 ### Link
 
