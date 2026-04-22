@@ -15,11 +15,11 @@ title: Projects
                     <!-- <br>{{ post.description }} -->
                     <!-- <h4 class="post-subtitle">{{ post.description }}</h4> -->
                     {% else %}
-                    <p class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                    <p class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
 					<!-- <br>{{ post.excerpt | strip_html | truncatewords: 15 }} -->
                     <!-- <h4 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h4> -->
                     {% endif %}
-			        <br><br><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time>
+			        <time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time>
                 </div>
             {% endif %}
         {% endif %}
