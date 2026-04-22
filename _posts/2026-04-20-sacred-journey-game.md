@@ -7,7 +7,7 @@ projects: true
 tag: game
 image: assets/images/sacred-journey.png
 headerImage: true
-description: "My current resume is available to download in the main navigation."
+description: "Online trivia game about religious figures called "Sacred Journey: Trivia Quest"."
 author: mattsherrill
 ---
 
