@@ -5,7 +5,7 @@ date: 2026-04-21
 category: projects
 projects: true
 tag: game
-image: assets/images/sacred-journey.png
+image: /assets/images/sacred-journey.png
 headerImage: true
 description: "Online trivia game about religious figures called Sacred Journey: Trivia Quest."
 author: mattsherrill
