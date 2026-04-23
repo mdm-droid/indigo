@@ -15,7 +15,7 @@ I used AI to create an online trivia game called "Sacred Journey: Trivia Quest" 
 
 ### Links
 
-* [Sacred Journey: Trivia Quest](https://mdm-droid.github.io/Religious-Figures-Trivia-Game/)
+* [Sacred Journey: Trivia Quest](https://mdm-droid.github.io/Religious-Figures-Trivia-Game/) (link to play the actual game!)
 * [Religious Figures Study Guide](https://docs.google.com/document/d/1lEi7pk0FBG0kKsRKZ2LYe892cZXzZPUyz83GmNmaab8/edit?usp=sharing)
 * [Progressive Revelation Timeline](https://drive.google.com/file/d/1RJYLLuR7OlxxJdostzVzAWqDS9YXUen3/view?usp=sharing)
 
